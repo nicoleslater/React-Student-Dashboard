@@ -6,12 +6,9 @@
 }
 
   .container {
-    background: url(/PursuitLogo.jpg);
+    background: url(src/public/PursuitLogo.jpg);
     background-size: 4em;
-    /* background-position-x: ; */
-    /* background-position-y: ; */
     background-repeat: repeat;
-    /* background-color: ; */
     height: 100vh;
     width: 100vw;
     display: grid;
